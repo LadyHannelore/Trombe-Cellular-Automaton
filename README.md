@@ -1,2 +1,2 @@
 # Trombe Cellular Automaton
-Trombe Cellular Automaton
+Open `index.html` in a browser. Click/drag to plant trombe seeds (drawn with `trombe.webp`); they spread across the grid and drain the ground gray. Use "Clear cells" mode or "Clear all" to remove them.
